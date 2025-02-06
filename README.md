@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fahim-rahman-551728230/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahman15-5953@diu.edu.bd)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Fahimur_rahman/)
+[![Profile Views](https://komarev.com/ghpvc/?username=fahimrahman701&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/fahimrahman701)
 
 **🎓 Computer Science & Engineering Student**  
 **🚀 Passionate Developer | Open-Source Enthusiast | Problem Solver**
