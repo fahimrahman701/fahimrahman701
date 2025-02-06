@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Md. Fahimur Rahman
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fahim-rahman-551728230/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](rahman15-5953@diu.edu.bd)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahman15-5953@diu.edu.bd)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Fahimur_rahman/)
 
 **🎓 Computer Science & Engineering Student**  
