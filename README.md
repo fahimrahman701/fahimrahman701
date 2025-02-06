@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/fahimrahman701/fahimrahman701/main/My social media banner.png" alt="Banner" width="100%">
 </p>
 
-# 👋 Hello, I'm Md. Fahimur Rahman
+<!--# 👋 Hello, I'm Md. Fahimur Rahman -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fahim-rahman-551728230/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahman15-5953@diu.edu.bd)
