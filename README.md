@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Md. Fahimur Rahman
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/fahim-rahman-551728230/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahim-rahman-551728230/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](rahman15-5953@diu.edu.bd)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)]([https://leetcode.com/yourusername](https://leetcode.com/u/Fahimur_rahman/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Fahimur_rahman/)
 
 **🎓 Computer Science & Engineering Student**  
 **🚀 Passionate Developer | Open-Source Enthusiast | Problem Solver**
@@ -49,9 +49,9 @@
 
 ### 📈 **GitHub Stats**
 
-[![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/fahimrahman701)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/fahimrahman701)
 
 ---
 
@@ -70,4 +70,4 @@
 ---
 
 ⭐ **Fun Fact**: I solve LeetCode problems while sipping coffee! ☕  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Abel)](https://leetcode.com/yourusername)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Abel)](https://leetcode.com/u/Fahimur_rahman/)
