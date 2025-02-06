@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Md. Fahimur Rahman
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahim-rahman-551728230/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fahim-rahman-551728230/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](rahman15-5953@diu.edu.bd)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Fahimur_rahman/)
 
@@ -12,9 +12,10 @@
 ### 🔧 **Technical Toolkit**
 
 #### **Languages**
+#### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.iobadge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### **Frameworks & Tools**
