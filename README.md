@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fahimrahman701/fahimrahman701/main/My social media banner.png" alt="Banner" width="100%">
+</p>
+
 # 👋 Hello, I'm Md. Fahimur Rahman
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fahim-rahman-551728230/)
@@ -6,7 +10,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=fahimrahman701&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/fahimrahman701)
 
 **🎓 Computer Science & Engineering Student**  
-**🚀 Passionate Developer | Open-Source Enthusiast | Problem Solver**
+**🚀 Passionate Developer | ☁️ Cloud Enthusiast | 🧠 Problem Solver**
 
 ---
 
