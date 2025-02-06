@@ -66,9 +66,9 @@
 ### 📫 **Let's Collaborate!**
 - 💬 Ask me about **web development, ML, or cloud tech**.
 - 🤝 Open to internships, hackathons, or innovative projects.
-- 📧 **Reach out**: [Email](rahman15-5953@diu.edu.bd) | [LinkedIn](https://www.linkedin.com/in/fahim-rahman-551728230/)
+- 📧 **Reach out**: [Email](mailto:rahman15-5953@diu.edu.bd) | [LinkedIn](https://www.linkedin.com/in/fahim-rahman-551728230/)
 
 ---
 
 ⭐ **Fun Fact**: I solve LeetCode problems while sipping coffee! ☕  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Abel)](https://leetcode.com/u/Fahimur_rahman/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Fahimur_rahman?theme=dark&font=Abel)](https://leetcode.com/u/Fahimur_rahman/)
