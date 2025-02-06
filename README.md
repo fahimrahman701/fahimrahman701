@@ -50,9 +50,9 @@
 
 ### 📈 **GitHub Stats**
 
-[![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/fahimrahman701)
+[![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimrahman701&show_icons=true&theme=radical)](https://github.com/fahimrahman701)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/fahimrahman701)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimrahman701&layout=compact&theme=radical)](https://github.com/fahimrahman701)
 
 ---
 
