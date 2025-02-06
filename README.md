@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Md. Fahimur Rahman
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/fahim-rahman-551728230/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/fahim-rahman-551728230/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](rahman15-5953@diu.edu.bd)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)]([https://leetcode.com/yourusername](https://leetcode.com/u/Fahimur_rahman/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)]([https://leetcode.com/yourusername](https://leetcode.com/u/Fahimur_rahman/)
 
 **🎓 Computer Science & Engineering Student**  
 **🚀 Passionate Developer | Open-Source Enthusiast | Problem Solver**
@@ -65,7 +65,7 @@
 ### 📫 **Let's Collaborate!**
 - 💬 Ask me about **web development, ML, or cloud tech**.
 - 🤝 Open to internships, hackathons, or innovative projects.
-- 📧 **Reach out**: [Email](mailto:your.email@gmail.com) | [LinkedIn](https://linkedin.com/in/yourusername)
+- 📧 **Reach out**: [Email](rahman15-5953@diu.edu.bd) | [LinkedIn](https://www.linkedin.com/in/fahim-rahman-551728230/)
 
 ---
 
