@@ -77,3 +77,17 @@
 
 ⭐ **Fun Fact**: I solve LeetCode problems while sipping coffee! ☕  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Fahimur_rahman?theme=dark&font=Abel)](https://leetcode.com/u/Fahimur_rahman/)
+
+⭐ **Fun Fact**: I tackle Beecrowd challenges with Pythonic elegance! 🐍  
+[![Beecrowd Profile](https://img.shields.io/badge/Beecrowd-Profile-%230078D4?style=for-the-badge&logo=beecrowd&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/642000)
+
+### 🏅 **Beecrowd Stats**
+[![Problems Solved](https://img.shields.io/badge/Solved-300%2B%20Problems-%230078D4?style=flat&logo=beecrowd)](https://www.beecrowd.com.br/judge/en/profile/642000)
+[![Rank](https://img.shields.io/badge/Rank-5%20Stars-%23FFD700?style=flat)](https://www.beecrowd.com.br/judge/en/profile/642000)
+[![Python](https://img.shields.io/badge/Python-90%25%20Usage-3776AB?style=flat&logo=python)](https://www.beecrowd.com.br/judge/en/profile/642000)
+
+#### 🔥 Recent Solutions
+- [Problem 1001 - Extremely Basic](https://www.beecrowd.com.br/judge/en/problems/view/1001)
+- [Problem 1036 - Bhaskara's Formula](https://www.beecrowd.com.br/judge/en/problems/view/1036)
+- [Problem 1042 - Simple Sort](https://www.beecrowd.com.br/judge/en/problems/view/1042)
+
